@@ -1,0 +1,1 @@
+{-- integrations.blade.php --}

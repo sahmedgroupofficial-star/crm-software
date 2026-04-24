@@ -1,0 +1,1 @@
+{-- money-receipt.blade.php --}

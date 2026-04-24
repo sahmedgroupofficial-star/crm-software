@@ -1,0 +1,1 @@
+{-- bar-chart.blade.php --}

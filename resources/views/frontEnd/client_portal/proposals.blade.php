@@ -1,0 +1,1 @@
+{-- proposals.blade.php --}
